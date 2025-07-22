@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="studycss.css" />
+</head>
+<body>
+  <header>
+    <h1>Melaunia Rose Jonisha</h1>
+    <p>ECE Student | Aspiring VLSI Engineer</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I am a third-year ECE student passionate about chip design, electronics, and embedded systems.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>VLSI Design</li>
+      <li>Embedded C</li>
+      <li>HTML & CSS</li>
+      <li>MATLAB Basics</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <p>Obstacle Avoiding Robot | Smart Agriculture System | Mini VLSI Layout Design</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: melaunia@example.com</p>
+  </section>
+</body>
+</html>
