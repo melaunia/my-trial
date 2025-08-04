@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Click Counter</title>
+</head>
+<body>
+
+<h2>Click the Button!</h2>
+<button onclick="increaseCount()">Clicked 0 times</button>
+
+<script>
+  let count = 0;
+
+  function increaseCount() {
+    count++;
+    document.querySelector("button").innerHTML = "Clicked " + count + " times";
+  }
+</script>
+
+</body>
+</html>
